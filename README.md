@@ -169,10 +169,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ### LED ON
-![PMC EXP2 PIC2](https://github.com/AVINASH05T/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/151514286/80ddad99-ce49-4c48-93a7-8c1b56c4fe59)
+![PMC EXP2 PIC2](https://github.com/AVINASH05T/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/151514286/9ca480ae-bfd1-4355-a888-ee8a89acd77b)
 
 
- 
  
  
 ## Result :
