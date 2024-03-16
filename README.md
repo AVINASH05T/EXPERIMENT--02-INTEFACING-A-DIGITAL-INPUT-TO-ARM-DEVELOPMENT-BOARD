@@ -1,10 +1,7 @@
-Name: AVINASH T
-
-Register no: 212223230026
-
+## Name: AVINASH T
+## Register no: 212223230026
 # EXPERIMENT 02: INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
- 
-## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
+ ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
@@ -168,13 +165,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 
 ### LED OFF
-![LED OFF](https://github.com/amal-2006/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/148410730/bde1d41d-375c-4416-8289-bd453483f9c4)
-
+![PMC EXP2 PIC1](https://github.com/AVINASH05T/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/151514286/037cc258-036e-4261-b4ab-45a9d7bd89c7)
 
 
 ### LED ON
-![LED ON](https://github.com/amal-2006/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/148410730/0d5077e4-0bad-4c7b-abbb-dde719705928)
-
+![PMC EXP2 PIC2](https://github.com/AVINASH05T/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/151514286/80ddad99-ce49-4c48-93a7-8c1b56c4fe59)
 
 
  
